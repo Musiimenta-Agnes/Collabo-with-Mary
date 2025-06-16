@@ -1,0 +1,14 @@
+body{
+    background-color: antiquewhite;
+
+}
+h1{
+    border-style: groove;
+    color: blue;
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+    color: black;
+}
