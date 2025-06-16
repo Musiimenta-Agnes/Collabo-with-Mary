@@ -1,0 +1,11 @@
+nav ul li {
+    float: left;
+    padding: 20px 20px;
+    list-style: none;
+
+}
+
+nav ul li a {
+    text-decoration: none;
+    
+}
